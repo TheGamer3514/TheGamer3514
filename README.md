@@ -2,7 +2,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegamer3514&label=Profile%20views&color=0e75b6&style=flat" alt="thegamer3514" /> </p>
-
+[![Github Uptime](https://betteruptime.com/status-badges/v1/monitor/g0kk.svg)](https://betteruptime.com/?utm_source=status_badge)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegamer3514" alt="thegamer3514" /></a> </p>
 
 - 🔭 I’m currently working on [TheGamer3514 Read Me](https://github.com/TheGamer3514/TheGamer3514)
