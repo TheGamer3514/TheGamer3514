@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, Javascript**
 
-- 📫 How to reach me **gamer@3514.ga Gamer3514#7679**
+- 📫 How to reach me **gamer@3514.ga Gamer3514#7679** :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
