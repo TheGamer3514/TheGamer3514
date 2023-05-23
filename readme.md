@@ -12,4 +12,4 @@
 gamer@sillydev.co.uk
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegamer3514&show_icons=true&locale=en&layout=compact&theme=radical" alt="thegamer3514" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegamer3514&show_icons=true&locale=en&theme=radical" alt="thegamer3514" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegamer3514&" alt="thegamer3514" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thegamer3514&" alt="thegamer3514" /></p>
