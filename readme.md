@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Silly Chat](https://github.com/TheGamer3514/silly-chat)
 
-- 🌱 I’m currently learning **Python, Javascript, HTML, CSS**
+- 🌱 I’m currently learning **Python, Javascript, HTML, CSS, Mongo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
