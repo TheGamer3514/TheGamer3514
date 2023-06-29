@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Javascript, HTML, CSS, Mongo**
 
+<a href="https://discord.com/channels/@me/763471049894527006"> <img src="https://discord.c99.nl/widget/theme-2/763471049894527006.png" alt="contact me">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/thegamer3514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the gamer3514" height="30" width="40" /></a>
