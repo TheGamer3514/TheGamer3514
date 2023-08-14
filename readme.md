@@ -11,4 +11,4 @@
 <a href="https://www.youtube.com/thegamer3514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the gamer3514" height="30" width="40" /></a>
 <a href="https://discord.gg/3qvpkgWSbF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WeQ3TpdfZM" height="30" width="40" /></a>
 gamer@sillydev.co.uk
-![Metrics](/github-metrics.svg)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
