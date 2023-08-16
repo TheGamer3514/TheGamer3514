@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Silly Chat](https://github.com/TheGamer3514/silly-chat)
 
-- 🌱 I’m currently learning **Python, Javascript, HTML, CSS, Mongo**
+- 🌱 I’m currently learning **Python, Javascript, HTML, CSS, MongoDB**
 
 <a href="https://discord.com/channels/@me/763471049894527006"> <img src="https://discord.c99.nl/widget/theme-2/763471049894527006.png" alt="contact me">
 <h3 align="left">Connect with me:</h3>
