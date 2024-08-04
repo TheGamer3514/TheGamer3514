@@ -1,6 +1,5 @@
 ![Header](https://user-images.githubusercontent.com/79448904/206868050-ff990422-80f7-4e03-a7e5-42485308722d.png)
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 ## 👋 About Me
 
@@ -27,4 +26,7 @@
 </p>
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thegamer3514" alt="GitHub Streak" />
+</p>
+<p>
+  <img align="left" src="/github-metrics.svg" alt="Metrics" width="400">
 </p>
