@@ -19,17 +19,17 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegamer3514&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thegamer3514&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<br>
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thegamer3514&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thegamer3514&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
-<br>
+
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thegamer3514" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thegamer3514" alt="GitHub Streak" />
 </p>
-<br>
+
 <p>
-  <img align="left" src="/github-metrics.svg" alt="Metrics" width="400">
+  <img src="/github-metrics.svg" alt="Metrics" width="400">
 </p>
