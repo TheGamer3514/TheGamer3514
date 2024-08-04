@@ -1,5 +1,5 @@
 ![Header](https://user-images.githubusercontent.com/79448904/206868050-ff990422-80f7-4e03-a7e5-42485308722d.png)
-
+<img src="/github-metrics.svg" alt="Metrics" width="400">
 
 ## 👋 About Me
 
@@ -21,15 +21,9 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thegamer3514&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=thegamer3514&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
-
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thegamer3514" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img src="/github-metrics.svg" alt="Metrics" width="400">
 </p>
