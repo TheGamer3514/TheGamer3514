@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-- 🔭 I’m currently working on [Silly Development](https://sillydev.co.uk).
+- 🔭 I’m currently working on [Silly Development](https://discord.gg/sillydev).
 - 🌱 I’m learning **Python**, **HTML**, **CSS**, **PHP**, **MongoDB**, and more.
 
 ## 📫 Connect with Me
@@ -14,7 +14,7 @@
 </a>
 
 - [YouTube Channel](https://www.youtube.com/thegamer3514) 🎥
-- [Discord Server](https://discord.gg/3qvpkgWSbF) 💬
+- [Discord Server](https://discord.gg/sillydev) 💬
 - Email: [gamer@sillydev.co.uk](mailto:gamer@sillydev.co.uk) 📧
 
 ## 📊 GitHub Stats
