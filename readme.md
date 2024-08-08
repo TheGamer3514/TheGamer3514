@@ -14,7 +14,6 @@
 
 - [YouTube Channel](https://www.youtube.com/thegamer3514) 🎥
 - [Discord Server](https://discord.gg/sillydev) 💬
-- Email: [gamer@sillydev.co.uk](mailto:gamer@sillydev.co.uk) 📧
 
 ## 📊 GitHub Stats
 
