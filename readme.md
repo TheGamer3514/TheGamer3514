@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/79448904/206868050-ff990422-80f7-4e03-a7e5-42485308722d.png)
+
 <img src="/github-metrics.svg" alt="Metrics" width="400">
 
 ## 👋 About Me
