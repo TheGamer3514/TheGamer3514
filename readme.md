@@ -4,7 +4,7 @@
 ## 👋 About Me
 
 - 🔭 I’m currently working on [Silly Development](https://discord.gg/sillydev).
-- 🌱 I’m learning **Python**, **HTML**, **CSS**, **PHP**, **MongoDB**, and more.
+- 🌱 I’m learning **Python**, **HTML**, **CSS**, **PHP**, **MongoDB**, and many more.
 
 ## 📫 Connect with Me
 
