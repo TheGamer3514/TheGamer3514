@@ -23,6 +23,3 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=thegamer3514&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thegamer3514" alt="GitHub Streak" />
-</p>
