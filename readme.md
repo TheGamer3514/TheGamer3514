@@ -12,7 +12,6 @@
   <img src="https://discord.c99.nl/widget/theme-2/763471049894527006.png" alt="Discord" />
 </a>
 
-- [YouTube Channel](https://www.youtube.com/thegamer3514) 🎥
 - [Discord Server](https://discord.gg/sillydev) 💬
 
 ## 📊 GitHub Stats!
