@@ -4,22 +4,22 @@
         "templates": [
             {
                 "name": "Ubuntu 24.04",
-                "vmid": 1003,
+                "vmid": 6003,
                 "link": "https://images.cdn.convoypanel.com/ubuntu/ubuntu-24-04-amd64.vma.zst"
             },
             {
                 "name": "Ubuntu 18.04",
-                "vmid": 1000,
+                "vmid": 6000,
                 "link": "https://images.cdn.convoypanel.com/ubuntu/ubuntu-18-04-amd64.vma.zst"
             },
             {
                 "name": "Ubuntu 20.04",
-                "vmid": 1001,
+                "vmid": 6001,
                 "link": "https://images.cdn.convoypanel.com/ubuntu/ubuntu-20-04-amd64.vma.zst"
             },
             {
                 "name": "Ubuntu 22.04",
-                "vmid": 1002,
+                "vmid": 6002,
                 "link": "https://images.cdn.convoypanel.com/ubuntu/ubuntu-22-04-amd64.vma.zst"
             }
         ]
