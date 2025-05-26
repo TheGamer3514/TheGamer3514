@@ -22,3 +22,4 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=thegamer3514&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheGamer3514&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
