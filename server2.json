@@ -1,0 +1,75 @@
+// 20251005222759
+// https://images.cdn.convoypanel.com/images.json
+
+[
+  {
+    "name": "Ubuntu",
+    "templates": [
+      {
+        "name": "Ubuntu 18.04",
+        "vmid": 1000,
+        "link": "https://images.cdn.convoypanel.com/ubuntu/ubuntu-18-04-amd64.vma.zst"
+      },
+      {
+        "name": "Ubuntu 20.04",
+        "vmid": 1001,
+        "link": "https://images.cdn.convoypanel.com/ubuntu/ubuntu-20-04-amd64.vma.zst"
+      }
+    ]
+  },
+  {
+    "name": "Windows Server",
+    "templates": [
+      {
+        "name": "Windows Server 2019",
+        "vmid": 1004,
+        "link": "https://images.cdn.convoypanel.com/windows/windows-2019-datacenter-amd64.vma.zst"
+      },
+      {
+        "name": "Windows Server 2022",
+        "vmid": 1005,
+        "link": "https://images.cdn.convoypanel.com/windows/windows-2022-datacenter-amd64.vma.zst"
+      }
+    ]
+  },
+  {
+    "name": "CentOS",
+    "templates": [
+      {
+        "name": "CentOS 7",
+        "vmid": 1006,
+        "link": "https://images.cdn.convoypanel.com/centos/centos-7-amd64.vma.zst"
+      },
+      {
+        "name": "CentOS 8",
+        "vmid": 1007,
+        "link": "https://images.cdn.convoypanel.com/centos/centos-8-amd64.vma.zst"
+      }
+    ]
+  },
+  {
+    "name": "Debian",
+    "templates": [
+      {
+        "name": "Debian 11",
+        "vmid": 1008,
+        "link": "https://images.cdn.convoypanel.com/debian/debian-11-amd64.vma.zst"
+      },
+      {
+        "name": "Debian 12",
+        "vmid": 1009,
+        "link": "https://images.cdn.convoypanel.com/debian/debian-12-amd64.vma.zst"
+      }
+    ]
+  },
+  {
+    "name": "Rocky Linux",
+    "templates": [
+      {
+        "name": "Rocky Linux 8",
+        "vmid": 1010,
+        "link": "https://images.cdn.convoypanel.com/rocky-linux/rocky-linux-8-amd64.vma.zst"
+      }
+    ]
+  }
+]
