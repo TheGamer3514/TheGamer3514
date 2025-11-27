@@ -3,7 +3,6 @@
 
 ## 👋 About Me
 
-- 🔭 I’m currently working on [Silly Development](https://discord.gg/sillydev).
 - 🌱 I’m learning **Python**, **PHP**, **Javascript**, and many more.
 
 ## 📫 Connect with Me!
