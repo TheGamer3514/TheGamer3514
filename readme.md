@@ -21,5 +21,5 @@
 <p>
   <img src="https://ghstats.gmr3514.lol/api?username=thegamer3514&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheGamer3514&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<img src="https://ghstreakstats.gmr3514.lol?user=TheGamer3514&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 <img src="https://raw.githubusercontent.com/TheGamer3514/TheGamer3514/output/snake.svg" alt="Snake animation" />
