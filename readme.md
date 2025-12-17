@@ -11,8 +11,6 @@
   <img src="https://discord.c99.nl/widget/theme-2/763471049894527006.png" alt="Discord" />
 </a>
 
-- [Discord Server](https://discord.gg/sillydev) 💬
-
 ## 📊 GitHub Stats!
 
 <p>
