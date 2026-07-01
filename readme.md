@@ -11,20 +11,10 @@
   Learning in public by hosting real things &mdash; even the GitHub stats cards below are on my own box.
 </p>
 
-```console
-> booting Gamer3514@localhost:3514 ...
-  location : localhost:3514
-  status   : [ OK ] if it needs a server, I'd rather run it myself
-```
-
 <p align="center">
   <a href="https://gamer3514.co.uk"><img alt="Website" src="https://img.shields.io/badge/Website-gamer3514.co.uk-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.youtube.com/@thegamer3514"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@thegamer3514-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://discord.com/users/763471049894527006"><img alt="Discord" src="https://img.shields.io/badge/Discord-Message_me-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=TheGamer3514&label=Profile+views&color=fe428e&style=flat-square">
 </p>
 
 </div>
@@ -47,8 +37,6 @@ The theme here is simple: if it needs a server, I'd rather run it myself.
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
 </p>
-
-<sub>Primary: Python (with discord.py for the bots). The rest I use as they fit &mdash; I'd rather list what I actually run than pad the list.</sub>
 
 ---
 
