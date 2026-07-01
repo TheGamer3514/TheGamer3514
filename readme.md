@@ -25,7 +25,6 @@
 </p>
 
 <p align="center">
-  <img alt="Location" src="https://img.shields.io/badge/localhost:3514-UTC+01:00-2b2b2b?style=flat-square">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=TheGamer3514&label=Profile+views&color=fe428e&style=flat-square">
   <a href="https://discord.com/users/763471049894527006"><img alt="Discord presence" src="https://discord.c99.nl/widget/theme-2/763471049894527006.png" height="20"></a>
 </p>
@@ -39,22 +38,6 @@
 I'm currently learning **Python**, **PHP**, and **JavaScript** &mdash; and I learn best by building and hosting real things instead of following tutorials. Most of what I ship is a Discord bot, a small tool, or a piece of my own infrastructure. I'm also a member of the [@Silly-Development](https://github.com/Silly-Development) organization.
 
 The theme here is simple: if it needs a server, I'd rather run it myself.
-
-## What I self-host
-
-| Thing | Where it lives |
-| --- | --- |
-| **My own GitHub stats stack** | The cards further down are served from my self-hosted [github-readme-stats](https://ghstats.gmr3514.lol) and streak-stats instances &mdash; not the public ones. |
-| **Proxmox / ConvoyPanel VM templates** | Ready-to-go templates for Ubuntu, Debian, CentOS, Rocky Linux, and Windows Server for spinning up VPS and game servers (see `server.json` / `server2.json` in this repo). |
-| **Linux server administration & virtualization** | The day-to-day of keeping the above running. |
-| **Personal site & domains** | [gamer3514.co.uk](https://gamer3514.co.uk), plus `gamer3514.lol` and `gmr3514.lol`. |
-
-## Featured projects
-
-| Project | What it is |
-| --- | --- |
-| [**silly-chat**](https://github.com/TheGamer3514/silly-chat) | A Discord global chat bot written in Python &mdash; relays messages across servers. (4 stars / 4 forks) |
-| [**Simple-Codes-For-Beginners**](https://github.com/TheGamer3514/Simple-Codes-For-Beginners) | Small, readable Python code samples for people starting out &mdash; my learning-in-public notebook. |
 
 ## Tech
 
