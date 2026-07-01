@@ -14,7 +14,6 @@
 ```console
 > booting Gamer3514@localhost:3514 ...
   location : localhost:3514
-  timezone : UTC+01:00
   status   : [ OK ] if it needs a server, I'd rather run it myself
 ```
 
