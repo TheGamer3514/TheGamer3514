@@ -25,7 +25,6 @@
 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=TheGamer3514&label=Profile+views&color=fe428e&style=flat-square">
-  <a href="https://discord.com/users/763471049894527006"><img alt="Discord presence" src="https://discord.c99.nl/widget/theme-2/763471049894527006.png" height="20"></a>
 </p>
 
 </div>
@@ -77,6 +76,9 @@ The theme here is simple: if it needs a server, I'd rather run it myself.
 
 <img src="https://raw.githubusercontent.com/TheGamer3514/TheGamer3514/output/snake.svg" alt="Contribution snake animation">
 
+<br>
+
+<a href="https://discord.com/users/763471049894527006"><img alt="Discord presence" src="https://discord.c99.nl/widget/theme-2/763471049894527006.png"></a>
 </div>
 
 ---
