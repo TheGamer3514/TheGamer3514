@@ -72,7 +72,6 @@ The theme here is simple: if it needs a server, I'd rather run it myself.
 ---
 
 <div align="center">
-  <sub>The two stats cards and the streak above are served from my own self-hosted instances at <code>ghstats.gmr3514.lol</code> and <code>ghstreakstats.gmr3514.lol</code>.</sub>
 
   <br><br>
 
